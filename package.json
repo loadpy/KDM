@@ -1,0 +1,14 @@
+{
+  "name": "loadpy",
+  "version": "1.0.0",
+  "description": "loadpy Desktop app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Anwesh Das",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^4.0.0"
+  }
+}
